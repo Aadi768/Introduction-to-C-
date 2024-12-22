@@ -22,20 +22,20 @@ int main() {
     
 	// updation of variable.............
    int x = 5;
-   cout<<"x = "<< x << endl;
+   cout<<"x = "<< x << endl;                  // x = 5          
 
    x = 21;
-   cout<< "New value of x = " << x << endl;
+   cout<< "New value of x = " << x << endl;  // x is 21
 
    x +=6 ;	// x = x + 6   
-   cout << "x + 6 = " << x << endl;
+   cout << "x + 6 = " << x << endl;         // x is 21 + 6 = 27
 
    x = x - 20;
-   cout <<"x - 20 = "<< x << endl;
+   cout <<"x - 20 = "<< x << endl;         // x is 27 - 20 = 7
 
    x *= 2;	// x = x * 2  
-   cout << x << endl;
+   cout << x << endl;                     //  x is 7 * 2 = 14
    
-   x *= 7 ;
-   cout << x << endl;
+   x *= 7 ;                         
+   cout << x << endl;                    // x is 14 * 7 = 98
 }
