@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     float a ;
     cout << "Enter Radius .: " ;
-    cin >> a ;
+    cin >> a ;                   // Input
     
-    cout << "Area of Circle is " << 3.145*a*a << endl ; 
+    cout << "Area of Circle is " << 3.145*a*a << endl ;  // Output
 }
