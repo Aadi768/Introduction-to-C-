@@ -16,7 +16,7 @@ int main(){
         cout << x1/2 << endl;
     
     // heirarchy of operator 
-      cout << "Heirarchy of operator is " ;
+      cout << "Heirarchy of operators is " ;
       cout << "B / O / D M / A S . " << endl;
 	  cout << "Left to Write in same precedence ."; 
 	}
