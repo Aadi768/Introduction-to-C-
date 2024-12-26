@@ -16,6 +16,9 @@ int main(){
 	if ( cp<sp ) {
 		cout << "Profit of " << sp-cp <<" is made";
 	}
+	else if ( cp=sp ){
+		cout << " No Profit No Loss " ;
+	}
 	else {
 		cout << "Loss of " << cp-sp << "is made." ;
 	}
