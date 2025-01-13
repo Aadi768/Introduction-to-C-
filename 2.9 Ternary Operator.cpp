@@ -1,4 +1,4 @@
-// use generally when you only have if and else don't use in case of else if
+// dont't use generally only when you can't use if and else
 #include <iostream>
 
 int main() {
